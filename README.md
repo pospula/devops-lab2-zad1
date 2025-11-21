@@ -1,1 +1,1 @@
-# devops-lab2-zad1
+# devops-lab2-zad1 | DevOps Lab 2 - Zadanie 1
